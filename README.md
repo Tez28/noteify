@@ -15,7 +15,7 @@ commmand npm start to ensure server access.
 https://noteifys.herokuapp.com/
 
 ## Video Link
-https://drive.google.com/file/d/1H-13whp2ftBYP91_VyfN_gv_URNqN-xS/view?usp=sharing
+https://drive.google.com/file/d/1gE8Ujxlmcljfzx9jB1rVoGtEPE7Q9Aya/view?usp=sharing
 
 
 
